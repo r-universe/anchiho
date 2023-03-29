@@ -13,6 +13,11 @@
 	url = https://github.com/cran/easyNCDF
 	shallow = true
 	registered = true
+[submodule "multiApply"]
+	path = multiApply
+	url = https://github.com/cran/multiApply
+	shallow = true
+	registered = true
 [submodule "s2dv"]
 	path = s2dv
 	url = https://github.com/cran/s2dv
