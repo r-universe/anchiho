@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ClimProjDiags"]
 	path = ClimProjDiags
 	url = https://github.com/cran/ClimProjDiags
-	shallow = true
-	registered = true
 [submodule "easyNCDF"]
 	path = easyNCDF
 	url = https://github.com/cran/easyNCDF
-	shallow = true
-	registered = true
 [submodule "multiApply"]
 	path = multiApply
 	url = https://github.com/cran/multiApply
-	shallow = true
-	registered = true
 [submodule "s2dv"]
 	path = s2dv
 	url = https://github.com/cran/s2dv
-	shallow = true
-	registered = true
 [submodule "s2dverification"]
 	path = s2dverification
 	url = https://github.com/cran/s2dverification
-	shallow = true
-	registered = true
 [submodule "startR"]
 	path = startR
 	url = https://github.com/cran/startR
-	shallow = true
-	registered = true
