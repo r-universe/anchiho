@@ -11,9 +11,6 @@
 [submodule "s2dv"]
 	path = s2dv
 	url = https://github.com/cran/s2dv
-[submodule "s2dverification"]
-	path = s2dverification
-	url = https://github.com/cran/s2dverification
 [submodule "startR"]
 	path = startR
 	url = https://github.com/cran/startR
