@@ -11,6 +11,3 @@
 [submodule "s2dv"]
 	path = s2dv
 	url = https://github.com/cran/s2dv
-[submodule "startR"]
-	path = startR
-	url = https://github.com/cran/startR
