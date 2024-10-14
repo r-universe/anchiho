@@ -8,6 +8,3 @@
 [submodule "multiApply"]
 	path = multiApply
 	url = https://github.com/cran/multiApply
-[submodule "s2dv"]
-	path = s2dv
-	url = https://github.com/cran/s2dv
