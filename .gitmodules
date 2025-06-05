@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "easyNCDF"]
-	path = easyNCDF
-	url = https://github.com/cran/easyNCDF
 [submodule "multiApply"]
 	path = multiApply
 	url = https://github.com/cran/multiApply
